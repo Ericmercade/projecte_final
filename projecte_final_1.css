@@ -7,10 +7,10 @@ body {
 
 /* Regla 2: Estil de la caixa del formulari */
 fieldset {
-    background-color: white;
-    border: 1px solid #333;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid #000000;
     padding: 20px;
-    width: 80%; /* Ocupa el 80% de l'ample */
+    width: 80%; 
 }
 
 /* Regla 3: Estil dels missatges d'error (Vermell i negreta) */
